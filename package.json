@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-ilarbase",
+  "version": "0.0.1",
+  "private": false,
+  "jest": {
+    "preset": "react-native"
+  }
+}
