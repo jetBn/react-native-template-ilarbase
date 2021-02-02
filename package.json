@@ -2,6 +2,10 @@
   "name": "react-native-template-ilarbase",
   "version": "0.0.1",
   "private": false,
+  "description": "React Native Template Ilarbase",
+  "repository": "git@github.com:jetBn/react-native-template-ilarbase.git",
+  "author": "jetBn <1022441695@qq.com>",
+  "license": "MIT",
   "jest": {
     "preset": "react-native"
   }
