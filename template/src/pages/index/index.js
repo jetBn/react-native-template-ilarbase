@@ -8,6 +8,7 @@ import {
 } from 'react-native'
 import FocusAwareStatusBar from '../../components/FocusAwareStatusBar'
 import PrivacyModal from '../../components/PrivacyModal'
+import { getPrivacyTag } from '../../utils/storage'
 
 Text.defaultProps = Object.assign({}, Text.defaultProps, {
   allowFontScaling: false
