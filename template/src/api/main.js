@@ -1,11 +1,4 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: WGQ
- * @Date: 2020-11-30 18:27:33
- * @LastEditors: WGQ
- * @LastEditTime: 2020-12-11 16:39:09
- */
+
 import fetch from '../utils/request'
 
 export const createTempUser = (params) => {
